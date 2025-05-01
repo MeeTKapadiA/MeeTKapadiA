@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Computer Science And Information Technology
 - 💞️ I’m looking to collaborate on web development projects 
-- 📫 How to reach me mail me on mkapadia564@gmail.com
+- 📫 How to reach me mail me on meetkapadia722@gmail.com
 
 <!---
 MeeTKapadiA/MeeTKapadiA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
